@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Austrolia aka Maxim (Hlebcev) Bogachew
+- 👋 Hi, I’m @Austrolia aka Maxim Bogachew
 - 📫 To contact me, wrtie to the email austrolia@protonmail.ch
 
 <!---
